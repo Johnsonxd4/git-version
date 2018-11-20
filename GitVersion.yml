@@ -1,0 +1,10 @@
+assembly-versioning-scheme: MajorMinorPatchTag
+branches:
+  develop:
+    mode: ContinuousDeployment
+    tag: rc
+  release:
+    tag: prod
+  pull-request: {}
+ignore:
+  sha: []

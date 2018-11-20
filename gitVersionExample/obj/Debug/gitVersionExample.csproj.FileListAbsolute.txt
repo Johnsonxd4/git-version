@@ -1,0 +1,11 @@
+C:\developer\git-version\gitVersionExample\gitVersionExample\bin\Debug\gitVersionExample.exe.config
+C:\developer\git-version\gitVersionExample\gitVersionExample\bin\Debug\gitVersionExample.exe
+C:\developer\git-version\gitVersionExample\gitVersionExample\bin\Debug\gitVersionExample.pdb
+C:\developer\git-version\gitVersionExample\gitVersionExample\bin\Debug\GitVersionCore.dll
+C:\developer\git-version\gitVersionExample\gitVersionExample\bin\Debug\GitVersionCore.pdb
+C:\developer\git-version\gitVersionExample\gitVersionExample\bin\Debug\GitVersionCore.xml
+C:\developer\git-version\gitVersionExample\gitVersionExample\obj\Debug\gitVersionExample.csproj.CoreCompileInputs.cache
+C:\developer\git-version\gitVersionExample\gitVersionExample\obj\Debug\GitVersionInformation.g.cs
+C:\developer\git-version\gitVersionExample\gitVersionExample\obj\Debug\gitVersionExample.csproj.CopyComplete
+C:\developer\git-version\gitVersionExample\gitVersionExample\obj\Debug\gitVersionExample.exe
+C:\developer\git-version\gitVersionExample\gitVersionExample\obj\Debug\gitVersionExample.pdb
